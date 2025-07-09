@@ -44,8 +44,8 @@ En el siguiente <a href="https://drive.google.com/file/d/1kiBepUGsdzZC7CzmG-8XA4
 
 ## Información de contacto
 
-Email: <a href="mailto:info@pacoaguiar.com">info@pacoaguiar.com</a>
+Francisco Aguiar | <a href="https://www.linkedin.com/in/francisco-aguiar-rodr%C3%ADguez-04ba3b1b/">Linkedin</a> | <a href="mailto:info@pacoaguiar.com">info@pacoaguiar.com</a>
 <br>
-Móvil: <a href="tel:+34609035981">+34 609 035 981</a>
+Enlace del proyecto: <a href="https://github.com/pacoaguiar/final_project_bootcamp_4geeks">https://github.com/pacoaguiar/final_project_bootcamp_4geeks</a>
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
