@@ -30,7 +30,7 @@ Entregables:
   * Plan para la recuperación en caso de incidencia, asegurando la continuidad de los servicios críticos de la empresa.
 * Fichero: <strong>02. Proyecto final - diagrama de red vulnerable.jpg</strong>. Esta imagen muestra el diagrama de red actual con las vulnerabilidades existentes.
 * Fichero: <strong>03. Proyecto final - diagrama de red recomendada.jpg</strong>. Esta imagen muestra el diagrama de red actualizado con las vulnerabilidades corregidas.
-* Fichero: <strong>04. Proyecto final - presentación ejecutiva.pptx</strong>. Este fichero contiene la presentación con un enfoque ejecutivo para la gerencia, explicando lo ocurrido, las acciones tomadas, y las recomendaciones futuras.
+* Fichero: <strong>04. Proyecto final - presentación ejecutiva.pdf</strong>. Este fichero contiene la presentación con un enfoque ejecutivo para la gerencia, explicando lo ocurrido, las acciones tomadas, y las recomendaciones futuras.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
