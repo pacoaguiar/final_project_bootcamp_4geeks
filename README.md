@@ -16,6 +16,11 @@ Fecha: julio 2025
 
 ## Acerca del proyecto
 
+<strong>Autor:</strong> Francisco Aguiar
+<br>
+<strong>Fecha:</strong> Julio 2025
+<br>
+
 A continuación se detallan los entregables del proyecto final del Bootcampb de 4Geeks.
 
 Entregables:
