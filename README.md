@@ -36,3 +36,10 @@ La máquina Debian se ha actualizado con los servicios configurados correctament
 En el siguiente <a href="https://drive.google.com/file/d/1kiBepUGsdzZC7CzmG-8XA4mU-8IiF67o/view?usp=sharing">enlace</a> se puede descargar la VM actualizada.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
+
+## Información de contacto
+
+Email: <a href="mailto:info@pacoaguiar.com">info@pacoaguiar.com</a>
+Móvil: <a href="tel:+34609035981">+34 609 035 981</a>
+
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
