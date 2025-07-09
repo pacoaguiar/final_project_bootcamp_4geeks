@@ -28,3 +28,11 @@ Entregables:
 * Fichero: <strong>04. Proyecto final - presentación ejecutiva.pptx</strong>. Este fichero contiene la presentación con un enfoque ejecutivo para la gerencia, explicando lo ocurrido, las acciones tomadas, y las recomendaciones futuras.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
+
+## Actualización de la VM Debian
+
+La máquina Debian se ha actualizado con los servicios configurados correctamente y los problemas solucionados.
+
+En el siguiente <a href="https://drive.google.com/file/d/1kiBepUGsdzZC7CzmG-8XA4mU-8IiF67o/view?usp=sharing">enlace</a> se puede descargar la VM actualizada.
+
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
