@@ -31,7 +31,7 @@ Entregables:
 * Fichero: <strong>02. Proyecto final - diagrama de red vulnerable.jpg</strong>. Esta imagen muestra el diagrama de red actual con las vulnerabilidades existentes.
 * Fichero: <strong>03. Proyecto final - diagrama de red recomendada.jpg</strong>. Esta imagen muestra el diagrama de red actualizado con las vulnerabilidades corregidas.
 * Fichero: <strong>04. Proyecto final - presentación ejecutiva.pdf</strong>. Este fichero contiene la presentación con un enfoque ejecutivo para la gerencia, explicando lo ocurrido, las acciones tomadas, y las recomendaciones futuras.
-* SGSI: El Sistema Básico de Gestión de Seguridad se encuentra en la carpeta "SGSI proyecto final", estructurado de la siguiente forma:
+* <strong>SGSI:</strong> El Sistema Básico de Gestión de Seguridad se encuentra en la carpeta "SGSI proyecto final", estructurado de la siguiente forma:
   * Carpeta: "Documentos de trabajo", están todos los documentos editables
   * Carpeta: "Entregables del proyecto", están todos los documentos para visualizar en el proyecto final.
 
